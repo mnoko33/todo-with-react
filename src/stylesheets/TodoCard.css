@@ -1,0 +1,17 @@
+.todoCard-wrapper {
+    width: 95%;
+    height: 60px;
+    margin: 10px auto;
+    background-color: gainsboro;
+    border-radius: 5px;
+    padding: 0 10px;
+    line-height: 60px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    font-weight: bolder;
+}
+
+.todoCard-wrapper:hover {
+    cursor: pointer;
+}

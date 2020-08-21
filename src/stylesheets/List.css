@@ -1,0 +1,9 @@
+.list-wrapper {
+    width: 95%;
+    margin: 20px auto;
+}
+
+.list-title {
+    padding-bottom: 10px;
+    border-bottom: 1px solid black;
+}

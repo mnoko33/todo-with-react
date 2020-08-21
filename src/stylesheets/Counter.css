@@ -1,0 +1,21 @@
+.wrapper {
+    border-radius: 4px;
+    display: inline-block;
+    width: 200px;
+    height: 70px;
+    margin: 30px;
+}
+
+.title, .count {
+    text-align: center;
+}
+
+.title {
+    height: 30px;
+}
+
+.count {
+    height: 40px;
+    line-height: 40px;
+    font-weight: bolder;
+}

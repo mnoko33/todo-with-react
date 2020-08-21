@@ -1,0 +1,12 @@
+.header {
+    width: 100%;
+    height: 20%;
+    background-color: #34558b;
+    color: #ffffff;
+    padding: 20px;
+}
+
+.counter-wrapper {
+    display: flex;
+    justify-content: center;
+}
